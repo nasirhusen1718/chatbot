@@ -1,0 +1,5 @@
+{
+  "name": "SIT Student Assistant",
+  "description": "A smart AI assistant for SIT University students, providing real-time campus information, course help, and navigation.",
+  "requestFramePermissions": []
+}
